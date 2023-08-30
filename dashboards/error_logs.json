@@ -1,0 +1,5 @@
+{
+  "log_format": "json",
+  "log_level": "error",
+  "log_path": "/var/log/err.log"
+}

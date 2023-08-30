@@ -1,0 +1,5 @@
+{
+  "log_format": "json",
+  "log_level": "warn",
+  "log_path": "/var/log/warn.log"
+}
